@@ -2,23 +2,23 @@
 
 ## Contents
 
-- [Bio](#bio↑)
-- [Contacts](#contacts↑)
-- [Specialization](#specialization↑)
-- [Languages](#languages↑)
-- [Programming languages](#programming-languages↑)
-  - [Python libraries](#python-libraries↑)
-- [Knowledge of operating systems](#knowledge-of-operating-systems↑)
-- [Skills](#skills↑)
-- [Software](#software↑)
-- [big projects](#big-projects↑)
-- [russian/на русском](#содержание↑)
+- [Bio](#bio)
+- [Contacts](#contacts)
+- [Specialization](#specialization)
+- [Languages](#languages)
+- [Programming languages](#programming-languages)
+  - [Python libraries](#python-libraries)
+- [Knowledge of operating systems](#knowledge-of-operating-systems)
+- [Skills](#skills)
+- [Software](#software)
+- [big projects](#big-projects)
+- [russian/на русском](#содержание)
 
-## Bio[↑](#contents)
+## Bio[^](#contents)
 
 I am an 18 year old Python developer. Ready for remote work and relocation, including abroad
 
-## Contacts[↑](#contents)
+## Contacts[^](#contents)
 
 - t.me/gmanka - telegram channel
 - t.me/gmankab - telegram account
@@ -26,7 +26,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - gmankab@gmail.com - email
 - vk.com/gmankab - vk
 
-## Specialization[↑](#contents)
+## Specialization[^](#contents)
 
 - Programming
 - Data analysis and parsing
@@ -36,18 +36,18 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Assistant system administrator, anykey
 - Machine learning
 
-## Languages[↑](#contents)
+## Languages[^](#contents)
 
 - Russian native
 - English B2 (I speak, read and write fluently, it is still a little difficult to perceive by ear)
 
-## Programming languages[↑](#contents)
+## Programming languages[^](#contents)
 
 - Python, learning from 2018
 - batch and shell scripts
 - Planning to learn kotlin
 
-### Python libraries[↑](#contents)
+### Python libraries[^](#contents)
 
 - python-telegram-bot
 - telepot
@@ -69,7 +69,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - prospector
 - forbiddenfruit
 
-## Knowledge of operating systems[↑](#contents)
+## Knowledge of operating systems[^](#contents)
 
 - Windows
   - 11
@@ -89,7 +89,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
   - MIUI
   - Arrow OS
 
-## Skills[↑](#contents)
+## Skills[^](#contents)
 
 - Install/reinstall/configure windows and linux
 - flash/root/configure android devices
@@ -99,7 +99,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Assembly of computers, selection of hardware in terms of price/quality ratio
 - Teaching people to use software and operating systems
 
-## Software[↑](#contents)
+## Software[^](#contents)
 
 - git
 - zsh
@@ -138,28 +138,28 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Adobe Audition
 - Adobe Acrobat
 
-## Big projects[↑](#contents)
+## Big projects[^](#contents)
 
 - [Betterdata](https://github.com/gmankab/betterdata) - my python library for working with data
 
-## Содержание[↑](#contents)
+## Содержание[^](#contents)
 
-- [Био](#био↑)
-- [Контакты](#контакты↑)
-- [Специализация](#специализация↑)
-- [Языки](#языки↑)
-- [Языки программирования](#языки-программирования↑)
-  - [Python библиотеки](#python-библиотеки↑)
-- [Знание операционных систем](#знание-операционных-систем↑)
-- [Навыки](#навыки↑)
-- [Софт](#софт↑)
-- [Большие проекты](#большие-проекты↑)
+- [Био](#био)
+- [Контакты](#контакты)
+- [Специализация](#специализация)
+- [Языки](#языки)
+- [Языки программирования](#языки-программирования)
+  - [Python библиотеки](#python-библиотеки)
+- [Знание операционных систем](#знание-операционных-систем)
+- [Навыки](#навыки)
+- [Софт](#софт)
+- [Большие проекты](#большие-проекты)
 
-## Био[↑](#содержание↑)
+## Био[^](#содержание)
 
 Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
 
-## Контакты[↑](#содержание↑)
+## Контакты[^](#содержание)
 
 - t.me/gmanka - telegram канал
 - t.me/gmankab - telegram аккаунт
@@ -167,7 +167,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - gmankab@gmail.com - email
 - vk.com/gmankab - vk
 
-## Специализация[↑](#содержание↑)
+## Специализация[^](#содержание)
 
 - Программирование
 - Анализ и парсинг данных
@@ -177,18 +177,18 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Помощник системного администратора, эникей
 - Машинное обучение
 
-## Языки[↑](#содержание↑)
+## Языки[^](#содержание)
 
 - Русский родной
 - Английский B2 (свободно говорю, читаю и пишу, на слух воспринимать пока еще немного сложно)
 
-## Языки программирования[↑](#содержание↑)
+## Языки программирования[^](#содержание)
 
 - Python, изучаю с 2018 года
 - batch и shell скрипты
 - Планирую изучить kotlin
 
-### Python библиотеки[↑](#содержание↑)
+### Python библиотеки[^](#содержание)
 
 - python-telegram-bot
 - telepot
@@ -210,7 +210,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - prospector
 - forbiddenfruit
 
-## Знание операционных систем[↑](#содержание↑)
+## Знание операционных систем[^](#содержание)
 
 - Windows
   - 11
@@ -230,7 +230,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
   - MIUI
   - Arrow OS
 
-## Навыки[↑](#содержание↑)
+## Навыки[^](#содержание)
 
 - Установка/переустановка/настройка windows и linux
 - Прошивка/рутирование/настройка android устройства
@@ -240,7 +240,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Соборка компов, подбор железа по соотношению цена/качество
 - Обучение людей пользоваться софтом и операционными системами
 
-## Софт[↑](#содержание↑)
+## Софт[^](#содержание)
 
 - git
 - zsh
@@ -279,6 +279,6 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Adobe Audition
 - Adobe Acrobat
 
-## Большие проекты[↑](#содержание↑)
+## Большие проекты[^](#содержание)
 
 - [Betterdata](https://github.com/gmankab/betterdata) - моя авторская python библиотека для работы с данными
