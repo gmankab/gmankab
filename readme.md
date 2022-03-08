@@ -20,11 +20,11 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 
 ## Contacts[^](#contents)
 
-- t.me/gmanka - telegram channel
-- t.me/gmankab - telegram account
-- github.com/gmankab - github
-- gmankab@gmail.com - email
-- vk.com/gmankab - vk
+- [t.me/gmanka](https://t.me/gmanka) - telegram channel
+- [t.me/gmankab](https://t.me/gmankab) - telegram account
+- [github.com/gmankab](https://github.com/gmankab) - github
+- [gmankab@gmail.com](https://gmankab@gmail.com) - email
+- [vk.com/gmankab](https://vk.com/gmankab) - vk
 
 ## Specialization[^](#contents)
 
