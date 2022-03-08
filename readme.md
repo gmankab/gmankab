@@ -1,5 +1,10 @@
 # Resume/Резюме
 
+[![python](svg/python.svg)](https://www.python.org)
+[![telegram](svg/telegram.svg)](https://t.me/gmanka)
+[![discord](svg/discord.svg)](https://discordapp.com/users/396578935540023296)
+[![github](svg/github.svg)](https://github.com/gmankab/betterdata)
+
 ## Contents
 
 - [Bio](#bio)
@@ -24,6 +29,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - [t.me/gmankab](https://t.me/gmankab) - telegram account
 - [github.com/gmankab](https://github.com/gmankab) - github
 - [gmankab@gmail.com](https://gmankab@gmail.com) - email
+- [gmanka#3806](https://discordapp.com/users/396578935540023296) - discord
 - [vk.com/gmankab](https://vk.com/gmankab) - vk
 
 ## Specialization[^](#contents)
