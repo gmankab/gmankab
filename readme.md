@@ -1,12 +1,19 @@
 # gmanka
 
-I am an 18 years old python developer, looking for a job.
+I am an 18 year old Python developer. Ready for remote work and relocation, including abroad
 
 ## Contents
 
 - [contacts](#contacts)
 - [resume](#resume)
-- [big projects](#projects)
+  - [Specialization](#specialization)
+  - [Языки](#языки)
+  - [Programming languages](#programming-languages)
+  - [Libraries](#libraries)
+  - [Knowledge of operating systems](#knowledge-of-operating-systems)
+  - [Skills](#skills)
+  - [Software](#Software)
+  - [big projects](#projects)
 - [russian/на русском](#содержание)
 
 ## Contacts
@@ -21,10 +28,14 @@ I am an 18 years old python developer, looking for a job.
 
 - [Контакты](#контакты)
 - [Резюме](#резюме)
-- [Специализация](#специализация)
-- [Языки](#языки)
-- [Языки программирования](#языки-программирования)
-- [Библиотеки](#библиотеки)
+  - [Специализация](#специализация)
+  - [Языки](#языки)
+  - [Языки программирования](#языки-программирования)
+  - [Библиотеки](#библиотеки)
+  - [Знание операционных систем](#знание-операционных-систем)
+  - [Навыки](#навыки)
+  - [Софт](#софт)
+  - [Большие проекты](#большие-проекты)
 
 ## Контакты
 
@@ -36,7 +47,7 @@ I am an 18 years old python developer, looking for a job.
 
 ## Резюме
 
-Возраст - 18 лет. Готов к дистанционной работе и переезду, в том числе заграницу.
+Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
 
 ### Специализация
 
@@ -69,6 +80,10 @@ I am an 18 years old python developer, looking for a job.
 - Pandas
 - pygame
 - requests
+- urllib
+- pathlib
+- pickle
+- yaml
 - seaborn
 - matplotlib
 - bs4
@@ -76,6 +91,7 @@ I am an 18 years old python developer, looking for a job.
 - subprocess
 - pylint
 - prospector
+- forbiddenfruit
 
 ### Знание операционных систем
 
@@ -84,7 +100,7 @@ I am an 18 years old python developer, looking for a job.
   - 10
   - 8
   - 7
-  - xp (моя первая система, пользуюсь компом с раннего детства)
+  - XP (моя первая система, пользовался компом с раннего детства)
 
 - Linux
   - Arch
@@ -118,12 +134,22 @@ I am an 18 years old python developer, looking for a job.
 - Windows Terminal
 - Acronis true image
 - AOMEI backupper
+- AOMEI PartAssist
 - Virtualbox
 - Sandboxie
 - Vera Crypt
 - Iobit unlocker
 - Teamviewer
 - Anydesk
+- ShareX
+- OBS
+- WSL
+- WSA
+- win10tweaker
+- EasyBCD
+- Rufus
+- Ventoy
+- Victoria
 - Microsoft office
 - Only office
 - Open office
@@ -134,7 +160,8 @@ I am an 18 years old python developer, looking for a job.
 - Adobe Animation
 - Adobe Flash
 - Adobe Audition
+- Adobe Acrobat
 
 ### Большие проекты
 
-- [Betterdata](https://github.com/gmankab/betterdata)
+- [Betterdata](https://github.com/gmankab/betterdata) - моя авторская python библиотека для работы с данными
