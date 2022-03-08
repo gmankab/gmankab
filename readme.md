@@ -170,6 +170,7 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - [t.me/gmanka](https://t.me/gmanka) - telegram канал
 - [t.me/gmankab](https://t.me/gmankab) - telegram аккаунт
 - [github.com/gmankab](https://github.com/gmankab) - github
+- [gmanka#3806](https://discordapp.com/users/396578935540023296) - discord
 - [gmankab@gmail.com](https://gmankab@gmail.com) - email
 - [vk.com/gmankab](https://vk.com/gmankab) - vk
 
