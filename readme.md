@@ -1,22 +1,24 @@
-# gmanka
-
-I am an 18 year old Python developer. Ready for remote work and relocation, including abroad
+# Resume/Резюме
 
 ## Contents
 
-- [contacts](#contacts)
-- [resume](#resume)
-  - [Specialization](#specialization)
-  - [Языки](#языки)
-  - [Programming languages](#programming-languages)
-  - [Libraries](#libraries)
-  - [Knowledge of operating systems](#knowledge-of-operating-systems)
-  - [Skills](#skills)
-  - [Software](#Software)
-  - [big projects](#projects)
-- [russian/на русском](#содержание)
+- [Bio](#bio↑)
+- [Contacts](#contacts↑)
+- [Specialization](#specialization↑)
+- [Languages](#languages↑)
+- [Programming languages](#programming-languages↑)
+  - [Python libraries](#python-libraries↑)
+- [Knowledge of operating systems](#knowledge-of-operating-systems↑)
+- [Skills](#skills↑)
+- [Software](#software↑)
+- [big projects](#big-projects↑)
+- [russian/на русском](#содержание↑)
 
-## Contacts
+## Bio[↑](#contents)
+
+I am an 18 year old Python developer. Ready for remote work and relocation, including abroad
+
+## Contacts[↑](#contents)
 
 - t.me/gmanka - telegram channel
 - t.me/gmankab - telegram account
@@ -24,54 +26,28 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - gmankab@gmail.com - email
 - vk.com/gmankab - vk
 
-## Содержание
+## Specialization[↑](#contents)
 
-- [Контакты](#контакты)
-- [Резюме](#резюме)
-  - [Специализация](#специализация)
-  - [Языки](#языки)
-  - [Языки программирования](#языки-программирования)
-  - [Библиотеки](#библиотеки)
-  - [Знание операционных систем](#знание-операционных-систем)
-  - [Навыки](#навыки)
-  - [Софт](#софт)
-  - [Большие проекты](#большие-проекты)
+- Programming
+- Data analysis and parsing
+- Automation of routine processes
+- Automatic encryption and data backup
+- System administration
+- Assistant system administrator, anykey
+- Machine learning
 
-## Контакты
+## Languages[↑](#contents)
 
-- t.me/gmanka - telegram канал
-- t.me/gmankab - telegram аккаунт
-- github.com/gmankab - github
-- gmankab@gmail.com - email
-- vk.com/gmankab - vk
+- Russian native
+- English B2 (I speak, read and write fluently, it is still a little difficult to perceive by ear)
 
-## Резюме
+## Programming languages[↑](#contents)
 
-Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
+- Python, learning from 2018
+- batch and shell scripts
+- Planning to learn kotlin
 
-### Специализация
-
-- Программирование
-- Анализ и парсинг данных
-- Автоматизация рутинных процессов
-- Автоматическое шифрование и резервное копирование данных
-- Системное администрирование
-- Помощник системного администратора
-- Эникей
-- Машинное обучение
-
-### Языки
-
-- Русский родной
-- Английский C1 (свободно говорю, читаю и пишу, на слух воспринимать пока еще немного сложно)
-
-### Языки программирования
-
-- Python, изучаю с 2018 года
-- batch и shell скрипты
-- Планирую изучить kotlin
-
-#### Библиотеки
+### Python libraries[↑](#contents)
 
 - python-telegram-bot
 - telepot
@@ -93,14 +69,14 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - prospector
 - forbiddenfruit
 
-### Знание операционных систем
+## Knowledge of operating systems[↑](#contents)
 
 - Windows
   - 11
   - 10
   - 8
   - 7
-  - XP (моя первая система, пользовался компом с раннего детства)
+  - XP (my first system, used a computer since early childhood)
 
 - Linux
   - Arch
@@ -113,17 +89,17 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
   - MIUI
   - Arrow OS
 
-### Навыки
+## Skills[↑](#contents)
 
-- установка/переустановка/настройка windows и linux
-- прошивать/рутировать/настраивать android устройства
-- Прошивать роутеры и модемы
-- Надежное автоматическое резервное копирование данных в облако
-- Шифрование данных
-- Собирать компы, подбирать железо по соотношению цена/качество
-- Обучать людей пользоваться софтом и операционными системами
+- Install/reinstall/configure windows and linux
+- flash/root/configure android devices
+- Flash routers and modems
+- Reliable automatic data backup to the cloud
+- Data encryption
+- Assembly of computers, selection of hardware in terms of price/quality ratio
+- Teaching people to use software and operating systems
 
-### Софт
+## Software[↑](#contents)
 
 - git
 - zsh
@@ -162,6 +138,147 @@ I am an 18 year old Python developer. Ready for remote work and relocation, incl
 - Adobe Audition
 - Adobe Acrobat
 
-### Большие проекты
+## Big projects[↑](#contents)
+
+- [Betterdata](https://github.com/gmankab/betterdata) - my python library for working with data
+
+## Содержание[↑](#contents)
+
+- [Био](#био↑)
+- [Контакты](#контакты↑)
+- [Специализация](#специализация↑)
+- [Языки](#языки↑)
+- [Языки программирования](#языки-программирования↑)
+  - [Python библиотеки](#python-библиотеки↑)
+- [Знание операционных систем](#знание-операционных-систем↑)
+- [Навыки](#навыки↑)
+- [Софт](#софт↑)
+- [Большие проекты](#большие-проекты↑)
+
+## Био[↑](#содержание↑)
+
+Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
+
+## Контакты[↑](#содержание↑)
+
+- t.me/gmanka - telegram канал
+- t.me/gmankab - telegram аккаунт
+- github.com/gmankab - github
+- gmankab@gmail.com - email
+- vk.com/gmankab - vk
+
+## Специализация[↑](#содержание↑)
+
+- Программирование
+- Анализ и парсинг данных
+- Автоматизация рутинных процессов
+- Автоматическое шифрование и резервное копирование данных
+- Системное администрирование
+- Помощник системного администратора, эникей
+- Машинное обучение
+
+## Языки[↑](#содержание↑)
+
+- Русский родной
+- Английский B2 (свободно говорю, читаю и пишу, на слух воспринимать пока еще немного сложно)
+
+## Языки программирования[↑](#содержание↑)
+
+- Python, изучаю с 2018 года
+- batch и shell скрипты
+- Планирую изучить kotlin
+
+### Python библиотеки[↑](#содержание↑)
+
+- python-telegram-bot
+- telepot
+- aiogram
+- deep_translator
+- Pandas
+- pygame
+- requests
+- urllib
+- pathlib
+- pickle
+- yaml
+- seaborn
+- matplotlib
+- bs4
+- os
+- subprocess
+- pylint
+- prospector
+- forbiddenfruit
+
+## Знание операционных систем[↑](#содержание↑)
+
+- Windows
+  - 11
+  - 10
+  - 8
+  - 7
+  - XP (моя первая система, пользовался компом с раннего детства)
+
+- Linux
+  - Arch
+  - Debian
+  - Ubuntu
+
+- Android:
+  - AOSP
+  - Pixel Experience
+  - MIUI
+  - Arrow OS
+
+## Навыки[↑](#содержание↑)
+
+- Установка/переустановка/настройка windows и linux
+- Прошивка/рутирование/настройка android устройства
+- Прошивка роутеров и модемов
+- Надежное автоматическое резервное копирование данных в облако
+- Шифрование данных
+- Соборка компов, подбор железа по соотношению цена/качество
+- Обучение людей пользоваться софтом и операционными системами
+
+## Софт[↑](#содержание↑)
+
+- git
+- zsh
+- VScode
+- Pycharm
+- IntelliJ IDEA
+- Micro editor
+- Windows Terminal
+- Acronis true image
+- AOMEI backupper
+- AOMEI PartAssist
+- Virtualbox
+- Sandboxie
+- Vera Crypt
+- Iobit unlocker
+- Teamviewer
+- Anydesk
+- ShareX
+- OBS
+- WSL
+- WSA
+- win10tweaker
+- EasyBCD
+- Rufus
+- Ventoy
+- Victoria
+- Microsoft office
+- Only office
+- Open office
+- Libre office
+- Google docs
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Animation
+- Adobe Flash
+- Adobe Audition
+- Adobe Acrobat
+
+## Большие проекты[↑](#содержание↑)
 
 - [Betterdata](https://github.com/gmankab/betterdata) - моя авторская python библиотека для работы с данными
