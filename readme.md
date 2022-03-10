@@ -5,7 +5,12 @@
 [![discord](svg/discord.svg)](https://discordapp.com/users/396578935540023296)
 [![github](svg/github.svg)](https://github.com/gmankab/betterdata)
 
-## Contents
+## Language
+
+- [English](#contents)
+- [Russian](#содержание)
+
+## Contents[^](#language)
 
 - [Bio](#bio)
 - [Contacts](#contacts)
@@ -17,7 +22,6 @@
 - [Skills](#skills)
 - [Software](#software)
 - [big projects](#big-projects)
-- [russian/на русском](#содержание)
 
 ## Bio[^](#contents)
 
@@ -148,7 +152,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 
 - [Betterdata](https://github.com/gmankab/betterdata) - my python library for working with data
 
-## Содержание[^](#contents)
+## Содержание[^](#language)
 
 - [Био](#био)
 - [Контакты](#контакты)
