@@ -25,7 +25,7 @@
 
 ## Bio[^](#contents)
 
-I am an 18 years old Python developer. Ready for remote work and relocation, including abroad
+I am an 17 years old Python developer. Ready for remote work and relocation, including abroad
 
 ## Contacts[^](#contents)
 
@@ -167,7 +167,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 
 ## Био[^](#содержание)
 
-Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
+Я 17-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
 
 ## Контакты[^](#содержание)
 
