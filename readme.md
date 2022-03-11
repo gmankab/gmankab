@@ -108,6 +108,7 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - Data encryption
 - Assembly of computers, selection of hardware in terms of price/quality ratio
 - Teaching people to use software and operating systems
+- Writing perfect docs
 
 ## Software[^](#contents)
 
@@ -250,6 +251,7 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - Шифрование данных
 - Соборка компов, подбор железа по соотношению цена/качество
 - Обучение людей пользоваться софтом и операционными системами
+- Написание прекрасной документации
 
 ## Софт[^](#содержание)
 
