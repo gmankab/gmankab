@@ -25,7 +25,7 @@
 
 ## Bio[^](#contents)
 
-I am an 17 years old Python developer. Ready for remote work and relocation, including abroad
+I am an 18 years old Python developer. Ready for remote work and relocation, including abroad
 
 ## Contacts[^](#contents)
 
@@ -62,8 +62,11 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - python-telegram-bot
 - telepot
 - aiogram
+- telethon
+- pyrogram
 - deep_translator
-- Pandas
+- pandas
+- pyspark
 - pygame
 - requests
 - urllib
@@ -108,7 +111,7 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - Data encryption
 - Assembly of computers, selection of hardware in terms of price/quality ratio
 - Teaching people to use software and operating systems
-- Writing perfect docs
+- Writing perfect documentation for projects
 
 ## Software[^](#contents)
 
@@ -168,7 +171,7 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 
 ## Био[^](#содержание)
 
-Я 17-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
+Я 18-летний python разработчик. Готов к дистанционной работе и переезду, в том числе за границу.
 
 ## Контакты[^](#содержание)
 
@@ -205,8 +208,11 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - python-telegram-bot
 - telepot
 - aiogram
+- telethon
+- pyrogram
 - deep_translator
-- Pandas
+- pandas
+- pyspark
 - pygame
 - requests
 - urllib
@@ -251,7 +257,7 @@ I am an 17 years old Python developer. Ready for remote work and relocation, inc
 - Шифрование данных
 - Соборка компов, подбор железа по соотношению цена/качество
 - Обучение людей пользоваться софтом и операционными системами
-- Написание прекрасной документации
+- Написание прекрасной документации к проектам
 
 ## Софт[^](#содержание)
 
