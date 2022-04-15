@@ -297,7 +297,3 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 - Adobe Flash
 - Adobe Audition
 - Adobe Acrobat
-
-## Большие проекты[^](#содержание)
-
-- [Betterdata](https://github.com/gmankab/betterdata) - моя авторская python библиотека для работы с данными
