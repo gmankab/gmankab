@@ -49,7 +49,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 ## Languages[^](#contents)
 
 - Russian native
-- English B2 (I speak, read and write fluently, it is still a little difficult to perceive by ear)
+- English B2 (I can free speak, read and write in english, but it is still a little difficult to perceive by ear)
 
 ## Programming languages[^](#contents)
 
