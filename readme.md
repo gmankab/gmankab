@@ -21,7 +21,6 @@
 - [Knowledge of operating systems](#knowledge-of-operating-systems)
 - [Skills](#skills)
 - [Software which I use](#software)
-- [big projects](#big-projects)
 
 ## Bio[^](#contents)
 
@@ -77,6 +76,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 - matplotlib
 - bs4
 - os
+- psutils
 - subprocess
 - pylint
 - prospector
@@ -153,10 +153,6 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 - Adobe Audition
 - Adobe Acrobat
 
-## Big projects[^](#contents)
-
-- [Betterdata](https://github.com/gmankab/betterdata) - my python library for working with data
-
 ## Содержание[^](#language)
 
 - [Био](#био)
@@ -168,7 +164,6 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 - [Знание операционных систем](#знание-операционных-систем)
 - [Навыки](#навыки)
 - [Софт, которым пользуюсь](#софт)
-- [Большие проекты](#большие-проекты)
 
 ## Био[^](#содержание)
 
@@ -224,6 +219,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 - matplotlib
 - bs4
 - os
+- psutils
 - subprocess
 - pylint
 - prospector
