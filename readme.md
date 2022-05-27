@@ -20,7 +20,7 @@
   - [Python libraries](#python-libraries)
 - [Knowledge of operating systems](#knowledge-of-operating-systems)
 - [Skills](#skills)
-- [Software](#software)
+- [Software which I use](#software)
 - [big projects](#big-projects)
 
 ## Bio[^](#contents)
@@ -92,7 +92,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
   - XP (my first system, used a computer since early childhood)
 
 - Linux
-  - Arch
+  - Arch (my favorite os, using it now btw)
   - Debian
   - Ubuntu
 
@@ -104,6 +104,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 
 ## Skills[^](#contents)
 
+- Writing telegram bots
 - Install/reinstall/configure windows and linux
 - flash/root/configure android devices
 - Flash routers and modems
@@ -166,7 +167,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
   - [Python библиотеки](#python-библиотеки)
 - [Знание операционных систем](#знание-операционных-систем)
 - [Навыки](#навыки)
-- [Софт](#софт)
+- [Софт, которым пользуюсь](#софт)
 - [Большие проекты](#большие-проекты)
 
 ## Био[^](#содержание)
@@ -238,7 +239,7 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
   - XP (моя первая система, пользовался компом с раннего детства)
 
 - Linux
-  - Arch
+  - Arch (Моя любимая ос, пользуюсь арчем сейчас)
   - Debian
   - Ubuntu
 
@@ -250,12 +251,13 @@ I am an 18 years old Python developer. Ready for remote work and relocation, inc
 
 ## Навыки[^](#содержание)
 
+- Написание телеграм ботов
 - Установка/переустановка/настройка windows и linux
 - Прошивка/рутирование/настройка android устройства
 - Прошивка роутеров и модемов
 - Надежное автоматическое резервное копирование данных в облако
 - Шифрование данных
-- Соборка компов, подбор железа по соотношению цена/качество
+- Сборка компов, подбор железа по соотношению цена/качество
 - Обучение людей пользоваться софтом и операционными системами
 - Написание прекрасной документации к проектам
 
