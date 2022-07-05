@@ -1,20 +1,90 @@
-<svg width="130.3" height="20" viewBox="0 0 1303 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="telegram: gmanka">
-  <title>telegram: gmanka</title>
-  <linearGradient id="a" x2="0" y2="100%">
-    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <mask id="m"><rect width="1303" height="200" rx="30" fill="#FFF"/></mask>
-  <g mask="url(#m)">
-    <rect width="757" height="200" fill="#08C"/>
-    <rect width="546" height="200" fill="#000" x="757"/>
-    <rect width="1303" height="200" fill="url(#a)"/>
-  </g>
-  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
-    <text x="220" y="148" textLength="497" fill="#000" opacity="0.25">telegram</text>
-    <text x="210" y="138" textLength="497">telegram</text>
-    <text x="812" y="148" textLength="446" fill="#000" opacity="0.25">gmanka</text>
-    <text x="802" y="138" textLength="446">gmanka</text>
-  </g>
-  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNiIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTguMzg0IDIyLjc3OWExLjE5IDEuMTkgMCAwMDEuMTA3LjE0NSAxLjE2IDEuMTYgMCAwMC43MjQtLjg0QzIxLjA4NCAxOCAyMy4xOTIgNy42NjMgMjMuOTgzIDMuOTQ4YS43OC43OCAwIDAwLS4yNi0uNzU4LjguOCAwIDAwLS43OTctLjE0QzE4LjczMyA0LjYwMiA1LjgyIDkuNDQ3LjU0MiAxMS40YS44MjcuODI3IDAgMDAtLjU0Mi43OTljLjAxMi4zNTQuMjUuNjYxLjU5My43NjQgMi4zNjcuNzA4IDUuNDc0IDEuNjkzIDUuNDc0IDEuNjkzczEuNDUyIDQuMzg1IDIuMjA5IDYuNjE1Yy4wOTUuMjguMzE0LjUuNjAzLjU3NmEuODY2Ljg2NiAwIDAwLjgxMS0uMjA3bDMuMDk2LTIuOTIzczMuNTcyIDIuNjE5IDUuNTk4IDQuMDYyem0tMTEuMDEtOC42NzdsMS42NzkgNS41MzguMzczLTMuNTA3IDEwLjE4NS05LjE4NmEuMjc3LjI3NyAwIDAwLjAzMy0uMzc3LjI4NC4yODQgMCAwMC0uMzc2LS4wNjRMNy4zNzQgMTQuMTAyeiIvPjwvc3ZnPgo="/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 150.00001 24.999999"
+   xml:space="preserve"
+   id="svg94"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   width="150"
+   height="25"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs98"><clipPath
+     id="clip0"><rect
+       width="71"
+       height="55"
+       fill="#ffffff"
+       id="rect1030"
+       x="0"
+       y="0" /></clipPath></defs><sodipodi:namedview
+   id="namedview96"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#000000"
+   showgrid="false"
+   inkscape:zoom="7.9999999"
+   inkscape:cx="65.375001"
+   inkscape:cy="15.5625"
+   inkscape:window-width="1920"
+   inkscape:window-height="999"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Слой_2" />
+<style
+   type="text/css"
+   id="style74">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#2091C0;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'JetBrainsMono-Medium';}
+	.st5{font-size:47.0914px;}
+</style>
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="background"><rect
+     style="fill:#2091c0;fill-opacity:1;stroke-width:0.643274"
+     id="rect1506"
+     width="148.47887"
+     height="22.386663"
+     x="0.62099999"
+     y="1.4"
+     ry="10.739675"
+     inkscape:label="color_rounded" /></g><g
+   id="Слой_2"
+   transform="matrix(0.5,0,0,0.5,-3.1425839,0.11180457)"
+   inkscape:label="foreground"
+   style="display:inline">
+	
+<text
+   xml:space="preserve"
+   style="font-size:32px;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline';fill:#ffffff"
+   x="80.52578"
+   y="36.408001"
+   id="text227"
+   inkscape:label="text"><tspan
+     sodipodi:role="line"
+     id="tspan225"
+     x="80.52578"
+     y="36.408001"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">@gmanka</tspan></text><path
+   class="st3"
+   d="M 34.736047,22.886484 C 46.741026,17.62657 62.273247,11.19091 64.43909,10.324571 c 5.631202,-2.3514905 7.363883,-1.8564395 6.497542,3.279712 -0.618817,3.71288 -2.413373,16.027268 -3.836645,23.638672 -0.86634,4.517339 -2.722774,5.07427 -5.693079,3.094068 -1.423273,-0.92822 -8.663395,-5.693083 -10.210428,-6.868829 -1.423269,-1.051984 -3.403472,-2.22773 -0.928218,-4.641101 0.866341,-0.866338 6.621306,-6.373777 11.138646,-10.643591 0.618808,-0.556932 -0.123768,-1.485152 -0.804465,-1.051983 -6.064363,4.022287 -14.48023,9.591608 -15.532213,10.334186 -1.608915,1.113863 -3.15595,1.608913 -5.940611,0.804456 -2.103964,-0.618813 -4.146049,-1.299508 -4.950506,-1.608916 -3.155949,-1.051982 -2.413373,-2.413371 0.556934,-3.774761 z"
+   id="path89"
+   style="fill:#ffffff;stroke-width:0.618813"
+   inkscape:label="telegram" /></g></svg>
