@@ -1,9 +1,9 @@
 # Resume/Резюме
 
 [![telegram](svg/telegram.svg)](https://t.me/gmanka)  
-[![github](svg/github.svg)](https://github.com/gmankab/betterdata)  
+[![github](svg/github.svg)](https://github.com/gmankab)  
+[![python](svg/python.svg)](https://python.org)  
 [![discord](svg/discord.svg)](https://discordapp.com/users/396578935540023296)  
-[![python](svg/python.svg)](https://www.python.org)  
 
 ## Language
 
