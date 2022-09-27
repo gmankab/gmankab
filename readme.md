@@ -1,9 +1,10 @@
 # Resume/Резюме
 
-[![telegram](svg/telegram.svg)](https://t.me/gmanka)  
-[![github](svg/github.svg)](https://github.com/gmankab)  
-[![discord](svg/discord.svg)](https://discordapp.com/users/396578935540023296)  
-[![python](svg/python.svg)](https://python.org)  
+[![telegram](icons/telegram.png)](https://t.me/gmanka)  
+<img src="icons/telegram.png" height = 30>
+[![github](icons/github.png)](https://github.com/gmankab)  
+[![discord](icons/discord.png)](https://discordapp.com/users/396578935540023296)  
+[![python](icons/python.png)](https://python.org)  
 
 ## Language
 
