@@ -178,7 +178,7 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 - [t.me/gmanka](https://t.me/gmanka) - аккаунт в телеграмі
 - [t.me/gmankab](https://t.me/gmankab) - канал в телеграмі
-- [gmanka#3806](https://discordapp.com/users/396578935540023296) - дiискорд
+- [gmanka#3806](https://discordapp.com/users/396578935540023296) - дiскорд
 - [gmankab@gmail.com](https://gmankab@gmail.com) - пошта
 - [github.com/gmankab](https://github.com/gmankab) - гiтхаб
 
@@ -228,6 +228,6 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [betterdata](https://github.com/gmankab/betterdata) – бібліотека для роботи з даними. Фічі - автоматичний запис на диск при додаванні нових даних в об'єкт, швидкий експорт до yml
 
-[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдлі інтерфейс для git, підтримує коммиты, пуші, деплой на [pipy.org](https://pypi.org)
+[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдлі інтерфейс для git, підтримує комiти, пуші, деплой на [pipy.org](https://pypi.org)
 
 [easyselect](https://github.com/gmankab/easyselect) - зручна бібліотека, яка дає користувачеві зробити вибір між кількома елементами в консолі за допомогою клавіатури. Підтримує дуже довгі списки, що не поміщаються на екран, [rich styles] (https://rich.readthedocs.io/en/stable/style.html), управління кнопками `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
